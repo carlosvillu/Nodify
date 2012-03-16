@@ -1,4 +1,4 @@
-# Node.js connector for the Shopify API [![Build Status](https://secure.travis-ci.org/Shopfrogs/Nodify.png?branch=master)](http://travis-ci.org/Shopfrogs/Nodify)
+# Node.js connector for the Shopify API [![Build Status](https://secure.travis-ci.org/carlosvillu/Nodify.png?branch=master)](http://travis-ci.org/carlosvillu/Nodify)
 ***
 Talk to Shopify API speaking node!
 
