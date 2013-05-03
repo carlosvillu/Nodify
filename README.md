@@ -57,3 +57,7 @@ https://groups.google.com/forum/#!forum/shopify-api <= Shopify API Group
 license data
 
 [Supported by Shopfrogs](http://www.shopfrogs.com/shopify/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/carlosvillu/nodify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
